@@ -1,6 +1,6 @@
 # Design Patterns
 
-[YouTube Tutorial](https://www.youtube.com/watch?v=mE3qTp1TEbg&list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc)
+Reference: [YouTube Tutorial](https://www.youtube.com/watch?v=mE3qTp1TEbg&list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc)
 
 Patterns will not generate ready code for us.
 Instead, they provide us a template to follows.
@@ -407,7 +407,7 @@ Pizza ->
     - AmericanVeggiePizza
     - ItalianVeggiePizza
     - AmericanPepperoniPizza
-    - ItalianPeeppperoniPizza
+    - ItalianPepperoniPizza
 
 Adding new pizza types and the ways of preparing these pizzas to the hierarchy will grow exponentially.
 
