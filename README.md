@@ -42,7 +42,6 @@ Also called *Gang of Four (GoF) book* which categorises **23 design patterns** i
   - **[Proxy](https://github.com/abhishek-bits/design-patterns#proxy)**
 
 ## Creational Design Patterns
----
 
 ### Singleton
 
@@ -151,7 +150,6 @@ Consider the shared similarities in the object calls for builder. For example, a
 - Typically, implemented as new **factory** class.
 
 ## Behavioral Design Patterns
----
 
 ### Chain of Responsibility
 
@@ -414,7 +412,6 @@ Real Life Scenario: Converion tool (one type of measurement to another)
 - **Terminal**, concrete implementations of expressions that provide specific conversions on different types of data.
 
 ## Structural Design Patterns
----
 
 ### Adapter
 
